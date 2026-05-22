@@ -1,0 +1,22 @@
+.env
+__pycache__/
+*.pyc
+logs/
+*.db
+*.db-journal
+BrowserMetrics/
+Crashpad/
+CrashpadMetrics-active.pma
+Default/
+GrShaderCache/
+GraphiteDawnCache/
+ShaderCache/
+Last Browser
+Last Version
+Local State
+Variations
+first_party_sets.db
+first_party_sets.db-journal
+component_crx_cache/
+extensions_crx_cache/
+segmentation_platform/

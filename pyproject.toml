@@ -1,0 +1,16 @@
+[project]
+name = "job-bot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "browser-use>=0.12.6",
+    "httpx>=0.28.1",
+    "langchain-anthropic>=1.3.1",
+    "langchain-google-genai>=2.1.2",
+    "langchain-openai>=1.1.9",
+    "playwright>=1.60.0",
+    "python-dotenv>=1.2.1",
+    "schedule>=1.2.2",
+]
